@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo19561
-Fork on GitHub5875
+
 <h1 align="center">Hi 👋, I'm Sonali Bhukele</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
